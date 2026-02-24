@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Departures ~あなたにおくるアイの歌~",
+  "base_artist": "春猿火",
+  "createdAt": "2026-02-24T12:35:58.847126Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Departures 〜あなたにおくるアイの歌〜",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/01_Departures_〜あなたにおくるアイの歌〜_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Departures",
+      "artist": "blessthefall",
+      "has_synced": true,
+      "path": "select/02_Departures_blessthefall.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Departures",
+      "artist": "Silverstein",
+      "has_synced": true,
+      "path": "select/03_Departures_Silverstein.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Departures 〜あなたにおくるアイの歌〜 -BOOM BOOM SATELLITES Remix-",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/04_Departures_〜あなたにおくるアイの歌〜_-BOOM_BOOM_SATELLITES_Remix-_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Departures",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/05_Departures_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DEPARTURES",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/06_DEPARTURES_globe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Departures 〜あなたにおくるアイの歌〜",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/07_Departures_〜あなたにおくるアイの歌〜_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Departures ~Anata ni Okuru Ai no Uta~",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/08_Departures_~Anata_ni_Okuru_Ai_no_Uta~_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Departures (Acoustic)",
+      "artist": "Silverstein",
+      "has_synced": true,
+      "path": "select/09_Departures_(Acoustic)_Silverstein.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "International Departures (Classic Anthem Mix)",
+      "artist": "Myon & Shane 54",
+      "has_synced": false,
+      "path": "select/10_International_Departures_(Classic_Anthem_Mix)_Myon_&_Shane_54.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Arrivals / Departures",
+      "artist": "Silverstein",
+      "has_synced": false,
+      "path": "select/11_Arrivals___Departures_Silverstein.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Departures (Acoustic) Acoustic",
+      "artist": "Silverstein",
+      "has_synced": true,
+      "path": "select/12_Departures_(Acoustic)_Acoustic_Silverstein.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Departures ~Anata ni Okuru Ai no Uta~ BOOM BOOM SATELLITES Remix -meteoric rain-",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/13_Departures_~Anata_ni_Okuru_Ai_no_Uta~_BOOM_BOOM_SATELLITES_Remix_-meteoric_rain-_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Departures ~anata Ni Okuru Ai No Uta~",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/14_Departures_~anata_Ni_Okuru_Ai_No_Uta~_春猿火.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Departures ~あなたにおくるアイの歌~",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_Departures_~あなたにおくるアイの歌~_春猿火.txt"
+    }
+  ]
+}
